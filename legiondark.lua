@@ -34,7 +34,7 @@ ObjectList =
     [91] =
     -- Rolanberry Fields [S]
     {
-        { 17150970, "The Incredible Jumping Crab" },
+        { 17150970, "Incredible Jumping Crab" },
         { 17150971, "An Incredible Loot Box?" },
         { 17150975, "PLACEHOLDER_OBJECT" } -- please report if seen in game
     },
