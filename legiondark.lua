@@ -19,6 +19,12 @@ ObjectList =
     },
     ]]
 
+    [4] =
+    -- Bibiki Bay
+    {
+        { 16794622, "Ravenous Cracklaw" },
+        { 16794623, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+    },
     [5] =
     -- Uleguerand Range
     {
