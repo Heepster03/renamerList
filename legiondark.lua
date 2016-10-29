@@ -112,10 +112,17 @@ ObjectList =
         { 17772723, "Magian Mog CJ" },
         { 17773567, "PLACEHOLDER_OBJECT" } -- please report if seen in game
     },
+    [245] =
     -- Lower Jeuno
     {
         { 17785850, "Limbus Mog" },
         { 17781759, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+    },
+    [246] =
+    {
+        { 17784938, "AF3 Shop Moogle" },
+        { 17784939, "AF3 Upgrade Moogle" },
+        { 17785855, "PLACEHOLDER_OBJECT" } -- please report if seen in game
     },
     [255] =
     -- Abyssea - Empyreal Paradox
