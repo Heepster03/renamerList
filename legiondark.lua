@@ -106,6 +106,21 @@ ObjectList =
         { 17687550, "Olympian Elemental" },   -- Battlefield C
         { 17687551, "Treasures of Minerva" }  -- Battlefield C
     },
+    [230] =
+    -- Southern San d'Oria
+    {
+        { 17720318, "Anniversary Mog" }
+    },
+    [234] =
+    -- Bastok Markets
+    {
+        { 17736702, "Anniversary Mog" }
+    },
+    [238] =
+    -- Windurst Waters
+    {
+        { 17753086, "Anniversary Mog" }
+    },
     [243] =
     -- Ru'Lude Gardens
     {
