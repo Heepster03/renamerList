@@ -44,6 +44,62 @@ ObjectList =
         { 17150971, "An Incredible Loot Box?" },
         { 17150975, "PLACEHOLDER_OBJECT" } -- please report if seen in game
     },
+    [100] =
+    -- West Ronfaure
+    {
+        { 17187829, "Holiday Gift Box" },
+        { 17187830, "Holiday Gift Box" },
+        { 17187831, "Holiday Gift Box" },
+        { 17187832, "Holiday Gift Box" },
+        { 17187833, "Holiday Gift Box" },
+        { 17187834, "Holiday Gift Box" },
+        { 17187835, "Holiday Gift Box" },
+        { 17187836, "Holiday Gift Box" },
+        { 17187837, "Holiday Gift Box" },
+        { 17187838, "Twinkling Treant" }
+    },
+    [101] =
+    -- East Ronfaure
+    {
+        { 17191925, "Holiday Gift Box" },
+        { 17191926, "Holiday Gift Box" },
+        { 17191927, "Holiday Gift Box" },
+        { 17191928, "Holiday Gift Box" },
+        { 17191929, "Holiday Gift Box" },
+        { 17191930, "Holiday Gift Box" },
+        { 17191931, "Holiday Gift Box" },
+        { 17191932, "Holiday Gift Box" },
+        { 17191933, "Holiday Gift Box" },
+        { 17191934, "Twinkling Treant" }
+    },
+    [106] =
+    -- North Gustaburg
+    {
+        { 17212405, "Holiday Gift Box" },
+        { 17212406, "Holiday Gift Box" },
+        { 17212407, "Holiday Gift Box" },
+        { 17212408, "Holiday Gift Box" },
+        { 17212409, "Holiday Gift Box" },
+        { 17212410, "Holiday Gift Box" },
+        { 17212411, "Holiday Gift Box" },
+        { 17212412, "Holiday Gift Box" },
+        { 17212413, "Holiday Gift Box" },
+        { 17212414, "Twinkling Treant" }
+    },
+    [107] =
+    -- South Gustaburg
+    {
+        { 17216501, "Holiday Gift Box" },
+        { 17216502, "Holiday Gift Box" },
+        { 17216503, "Holiday Gift Box" },
+        { 17216504, "Holiday Gift Box" },
+        { 17216505, "Holiday Gift Box" },
+        { 17216506, "Holiday Gift Box" },
+        { 17216507, "Holiday Gift Box" },
+        { 17216508, "Holiday Gift Box" },
+        { 17216509, "Holiday Gift Box" },
+        { 17216510, "Twinkling Treant" }
+    },
     [110] =
     -- Rolanberry Fields
     {
@@ -56,6 +112,34 @@ ObjectList =
         { 17232238, "Freezing Circle" },
         { 17232894, "Umagrhk" },
         { 17232895, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+    },
+    [115] =
+    -- West Sarutabaruta
+    {
+        { 17249269, "Holiday Gift Box" },
+        { 17249270, "Holiday Gift Box" },
+        { 17249271, "Holiday Gift Box" },
+        { 17249272, "Holiday Gift Box" },
+        { 17249273, "Holiday Gift Box" },
+        { 17249274, "Holiday Gift Box" },
+        { 17249275, "Holiday Gift Box" },
+        { 17249276, "Holiday Gift Box" },
+        { 17249277, "Holiday Gift Box" },
+        { 17249278, "Twinkling Treant" }
+    },
+    [116] =
+    -- East Sarutabaruta
+    {
+        { 17253365, "Holiday Gift Box" },
+        { 17253366, "Holiday Gift Box" },
+        { 17253367, "Holiday Gift Box" },
+        { 17253368, "Holiday Gift Box" },
+        { 17253369, "Holiday Gift Box" },
+        { 17253370, "Holiday Gift Box" },
+        { 17253371, "Holiday Gift Box" },
+        { 17253372, "Holiday Gift Box" },
+        { 17253373, "Holiday Gift Box" },
+        { 17253374, "Twinkling Treant" }
     },
     [117] =
     -- Tahrongi Canyon
