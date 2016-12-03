@@ -114,7 +114,7 @@ ObjectList =
     [234] =
     -- Bastok Markets
     {
-        { 17736702, "Anniversary Mog" }
+        { 17740799, "Anniversary Mog" }
     },
     [238] =
     -- Windurst Waters
