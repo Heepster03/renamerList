@@ -72,6 +72,12 @@ ObjectList =
         { 17191933, "Holiday Gift Box" },
         { 17191934, "Twinkling Treant" }
     },
+    [103] =
+    -- Valkurm Dunes
+    {
+        { 17200126, "Tchakka" },
+        { 17200127, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+    },
     [106] =
     -- North Gustaburg
     {
