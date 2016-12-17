@@ -214,7 +214,10 @@ ObjectList =
     [243] =
     -- Ru'Lude Gardens
     {
-        { 17772723, "Magian Mog CJ" },
+        { 17773563, "Magian Mog TJ" },
+        { 17773564, "Magian Mog CJ" },
+        { 17773565, "Magian Mog AJ" },
+        { 17773566, "Master Magian Mog" },
         { 17773567, "PLACEHOLDER_OBJECT" } -- please report if seen in game
     },
     [245] =
