@@ -217,7 +217,7 @@ ObjectList =
         { 17773563, "Magian Mog TJ" },
         { 17773564, "Magian Mog CJ" },
         { 17773565, "Magian Mog AJ" },
-        { 17773566, "Master Magian Mog" },
+        { 17773566, "Magian Master" },
         { 17773567, "PLACEHOLDER_OBJECT" } -- please report if seen in game
     },
     [245] =
