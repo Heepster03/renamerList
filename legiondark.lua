@@ -22,27 +22,23 @@ ObjectList =
     [4] =
     -- Bibiki Bay
     {
-        { 16794622, "Ravenous Cracklaw" },
-        { 16794623, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 16794622, "Ravenous Cracklaw" }
     },
     [5] =
     -- Uleguerand Range
     {
-        { 16798718, "Kumhau" },
-        { 16798719, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 16798718, "Kumhau" }
     },
     [7] =
     -- Attohwa Chasm
     {
-        { 16806910, "Achuka" },
-        { 16806911, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 16806910, "Achuka" }
     },
     [91] =
     -- Rolanberry Fields [S]
     {
         { 17150970, "Incredible Jumping Crab" },
-        { 17150971, "An Incredible Loot Box?" },
-        { 17150975, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17150971, "An Incredible Loot Box?" }
     },
     [100] =
     -- West Ronfaure
@@ -75,8 +71,7 @@ ObjectList =
     [103] =
     -- Valkurm Dunes
     {
-        { 17200126, "Tchakka" },
-        { 17200127, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17200126, "Tchakka" }
     },
     [106] =
     -- North Gustaburg
@@ -109,15 +104,13 @@ ObjectList =
     [110] =
     -- Rolanberry Fields
     {
-        { 17228395, "Legion Moogle" },
-        { 17228799, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17228395, "Legion Moogle" }
     },
     [111] =
     -- Beaucedine Glacier
     {
         { 17232238, "Freezing Circle" },
-        { 17232894, "Umagrhk" },
-        { 17232895, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17232894, "Umagrhk" }
     },
     [115] =
     -- West Sarutabaruta
@@ -150,20 +143,17 @@ ObjectList =
     [117] =
     -- Tahrongi Canyon
     {
-        { 17257470, "Hurkan" },
-        { 17257471, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17257470, "Hurkan" }
     },
     [123] =
     -- Yuhtunga Jungle
     {
-        { 17282046, "Darrcuiln" },
-        { 17282047, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17282046, "Darrcuiln" }
     },
     [159] =
     -- Temple of Uggalepih
     {
-        { 17429502, "Colkhab" },
-        { 17429503, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17429502, "Colkhab" }
     },
     [183] =
     -- Maquette Abdhaljs-Legion
@@ -177,8 +167,7 @@ ObjectList =
     [215] =
     -- Abyssea - Attohwa
     {
-        { 17658877, "MOUNTAIN WARP" },
-        { 17658879, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17658877, "MOUNTAIN WARP" }
     },
     [222] =
     -- Provenance
@@ -201,10 +190,10 @@ ObjectList =
     {
         { 17720318, "Anniversary Mog" }
     },
-    [234] =
+    [235] =
     -- Bastok Markets
     {
-        { 17740799, "Anniversary Mog" }
+        { 17740798, "Anniversary Mog" }
     },
     [238] =
     -- Windurst Waters
@@ -217,27 +206,23 @@ ObjectList =
         { 17773563, "Magian Mog TJ" },
         { 17773564, "Magian Mog CJ" },
         { 17773565, "Magian Mog AJ" },
-        { 17773566, "Magian Master" },
-        { 17773567, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17773566, "Magian Master" }
     },
     [245] =
     -- Lower Jeuno
     {
-        { 17785850, "Limbus Mog" },
-        { 17781759, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17785850, "Limbus Mog" }
     },
     [246] =
     {
         { 17784938, "AF3 Shop Moogle" },
-        { 17784939, "AF3 Upgrade Moogle" },
-        { 17785855, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17784939, "AF3 Upgrade Moogle" }
     },
     [255] =
     -- Abyssea - Empyreal Paradox
     {
         { 17822710, "Loot Box" },
         { 17822711, "Loot Box" },
-        { 17822712, "Loot Box" },
-        { 17822719, "PLACEHOLDER_OBJECT" } -- please report if seen in game
+        { 17822712, "Loot Box" }
     }
 };
