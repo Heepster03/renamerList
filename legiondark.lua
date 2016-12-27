@@ -112,6 +112,11 @@ ObjectList =
         { 17232238, "Freezing Circle" },
         { 17232894, "Umagrhk" }
     },
+    [114] =
+    -- Eastern Altepa Desert
+    {
+        { 17244539, "Cactrot NotSoRapido" }
+    },
     [115] =
     -- West Sarutabaruta
     {
