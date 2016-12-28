@@ -168,6 +168,12 @@ ObjectList =
         { 17527805, "Son Goku" },
         { 17527806, "Mars" },
         { 17527807, "Treasures of Mars" }
+    },    
+    [193] =
+    -- Ordelles Caves
+    {
+        { 17568765, "Stroper Chyme" },
+        { 17568766, "Stroper Chyme" }
     },
     [215] =
     -- Abyssea - Attohwa
