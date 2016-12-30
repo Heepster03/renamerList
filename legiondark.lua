@@ -104,7 +104,7 @@ ObjectList =
     [110] =
     -- Rolanberry Fields
     {
-        { 17228395, "Legion Moogle" }
+        { 17228790, "Legion Moogle" }
     },
     [111] =
     -- Beaucedine Glacier
