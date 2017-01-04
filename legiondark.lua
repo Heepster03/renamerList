@@ -163,6 +163,22 @@ ObjectList =
     [183] =
     -- Maquette Abdhaljs-Legion
     {
+        { 17527787, "Auspicious Restore" },
+        { 17527788, "Auspicious Restore" },
+        { 17527789, "Auspicious Restore" },
+        { 17527790, "Auspicious Restore" },
+        { 17527791, "Auspicious Extension" },
+        { 17527794, "Auspicious Extension" },
+        { 17527793, "Auspicious Restore" },
+        { 17527794, "Auspicious Reset" },
+        { 17527795, "Exit" },
+        { 17527796, "Exit" },
+        { 17527797, "Exit" },
+        { 17527798, "Exit" },
+        { 17527799, "Exit" },
+        { 17527800, "Exit" },
+        { 17527801, "Exit" },
+        { 17527802, "Exit" },
         { 17527803, "Frog Lady" },
         { 17527804, "Frog" },
         { 17527805, "Son Goku" },
