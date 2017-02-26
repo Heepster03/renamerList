@@ -34,6 +34,24 @@ ObjectList =
     {
         { 16806910, "Achuka" }
     },
+    [26] =
+    -- Tavnazian Safehold
+    {
+        { 16884732, "Relic_Mog" },
+        { 16884733, "Artifact_Mog" }
+    },
+    [29] =
+    -- Riverne - Site #B01
+    {
+        { 16897020, "Dragon_Scat" }
+    },
+    [78] =
+    -- Hazhalm Testing Grounds
+    {
+        { 17097716, "Odin" },
+        { 17097717, "Alexander" },
+        { 17097718, "Ragnarok Rift" }
+    },
     [91] =
     -- Rolanberry Fields [S]
     {
@@ -109,8 +127,8 @@ ObjectList =
     [111] =
     -- Beaucedine Glacier
     {
-        { 17232238, "Freezing Circle" },
-        { 17232894, "Umagrhk" }
+        { 17232891, "Umagrhk" },
+        { 17232892, "Freezing Circle" }
     },
     [114] =
     -- Eastern Altepa Desert
@@ -184,7 +202,7 @@ ObjectList =
         { 17527805, "Son Goku" },
         { 17527806, "Mars" },
         { 17527807, "Treasures of Mars" }
-    },    
+    },
     [193] =
     -- Ordelles Caves
     {
@@ -241,9 +259,11 @@ ObjectList =
         { 17785850, "Limbus Mog" }
     },
     [246] =
+    -- Port Jeuno
     {
-        { 17784938, "AF3 Shop Moogle" },
-        { 17784939, "AF3 Upgrade Moogle" }
+        { 17785848, "AF3 Shop Moogle" },
+        { 17785849, "AF3 Upgrade Moogle" },
+        { 17785850, "Limbus Moogle" }
     },
     [255] =
     -- Abyssea - Empyreal Paradox
